@@ -1,6 +1,5 @@
 # AI_Project
 Proyecto de inteligencia artificial utilizando GitHub Copilo
-# AI_Project
 
 ## Actividad formativa: GitHub Copilot
 
@@ -38,7 +37,16 @@ Para el desarrollo se utilizaron bibliotecas de Python como:
 
 - pandas
 - scikit-learn
+###Ejemplo de productos utilizados###  
+Como ejemplo de funcionamiento del sistema de recomendación, se pueden considerar los siguientes productos:
 
+- Laptop — Tecnología
+- Audífonos — Tecnología
+- Polera — Ropa
+- Zapatillas — Ropa
+- Libro — Educación
+
+Estos productos permiten representar distintas categorías y comprobar cómo el sistema puede generar recomendaciones de acuerdo con las características o preferencias del usuario.
 ### 6. Prueba del código
 
 Se ejecutó el programa utilizando el entorno virtual de Python configurado en Visual Studio Code.
@@ -51,13 +59,44 @@ La actividad permitió conocer el uso práctico de GitHub Copilot como herramien
 
 ## Evidencias
 
-En esta sección se incorporarán capturas de pantalla del proceso realizado:
+### 1. Creación del repositorio
 
-1. Creación del repositorio en GitHub.
-2. Clonación del repositorio en Visual Studio Code.
-3. Creación del archivo `recommendation_system.py`.
-4. Generación del código mediante GitHub Copilot.
-5. Configuración del entorno de Python.
-6. Ejecución y prueba del sistema.
-7. Commit y Push del proyecto a GitHub.
+Se creó el repositorio `AI_Project` en GitHub para desarrollar el proyecto de inteligencia artificial.
 
+![Creación del repositorio](EVIDENCIAS/image-1.png)
+
+### 2. Clonación del repositorio en Visual Studio Code
+
+Se clonó el repositorio desde GitHub y se abrió localmente en Visual Studio Code.
+
+![Clonación del repositorio](EVIDENCIAS/image-2.png)
+
+### 3. Creación del archivo Python
+
+Se creó el archivo `recommendation_system.py`, destinado al desarrollo del sistema de recomendación.
+
+![Creación del archivo Python](EVIDENCIAS/image-3.png)
+
+### 4. Generación del código mediante GitHub Copilot
+
+Se utilizó GitHub Copilot para generar el código inicial del sistema de recomendación mediante instrucciones en lenguaje natural.
+
+![Generación del código con GitHub Copilot](EVIDENCIAS/image-4.png)
+
+### 5. Configuración del entorno de Python
+
+Se configuró el entorno virtual de Python necesario para ejecutar el proyecto.
+
+![Configuración del entorno de Python](EVIDENCIAS/image-5.png)
+
+### 6. Ejecución y prueba del sistema
+
+Se ejecutó el programa desde Visual Studio Code para comprobar el funcionamiento del sistema y la generación de recomendaciones.
+
+![Ejecución y prueba del sistema](EVIDENCIAS/image-6.png)
+
+### 7. Commit y Push del proyecto
+
+Finalmente, se realizaron las operaciones de Commit y Push para subir los cambios al repositorio remoto de GitHub.
+
+![Commit y Push del proyecto](EVIDENCIAS/image-7.png)
