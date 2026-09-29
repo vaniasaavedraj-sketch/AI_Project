@@ -175,4 +175,4 @@ if __name__ == "__main__":
 				"rating": 4.5,
 			},
 			n=2,
-		)[["name", "similarity_score"]]
+		)[["name", "similarity_score"]])
