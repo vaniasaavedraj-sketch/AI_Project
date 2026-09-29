@@ -1,5 +1,5 @@
 # AI_Project
-Proyecto de inteligencia artificial utilizando GitHub Copilo
+Proyecto de inteligencia artificial utilizando GitHub Copilot
 
 ## Actividad formativa: GitHub Copilot
 
