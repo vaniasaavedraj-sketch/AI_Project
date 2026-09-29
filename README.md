@@ -1,5 +1,6 @@
 # AI_Project
 Proyecto de inteligencia artificial utilizando GitHub Copilot
+<<<<<<< HEAD
 # AI_Project
 
 ## Actividad formativa: GitHub Copilot
@@ -60,3 +61,4 @@ En esta sección se incorporarán capturas de pantalla del proceso realizado:
 5. Configuración del entorno de Python.
 6. Ejecución y prueba del sistema.
 7. Commit y Push del proyecto a GitHub.
+
